@@ -1,0 +1,105 @@
+{
+  "drugs": [
+    {
+      "name": "Amoxicillin",
+      "uses": "Antibiotic for bacterial infections",
+      "side_effects": "Nausea, diarrhea"
+    },
+    {
+      "name": "Cetirizine",
+      "uses": "Antihistamine for allergies",
+      "side_effects": "Drowsiness, dry mouth"
+    },
+    {
+      "name": "Clindamycin",
+      "uses": "Antibiotic for skin and respiratory infections",
+      "side_effects": "Rash, upset stomach"
+    },
+    {
+      "name": "Clopidogrel",
+      "uses": "Antiplatelet agent to prevent blood clots",
+      "side_effects": "Bleeding, headache"
+    },
+    {
+      "name": "Diclofenac",
+      "uses": "Nonsteroidal anti-inflammatory drug (NSAID) for pain and inflammation",
+      "side_effects": "Stomach upset, dizziness"
+    },
+    {
+      "name": "Domperidone",
+      "uses": "Antiemetic for nausea and vomiting",
+      "side_effects": "Dry mouth, headache"
+    },
+    {
+      "name": "Dulcolax",
+      "uses": "Laxative for constipation relief",
+      "side_effects": "Abdominal cramps, diarrhea"
+    },
+    {
+      "name": "Fluoxetine",
+      "uses": "Antidepressant (SSRI)",
+      "side_effects": "Insomnia, weight changes"
+    },
+    {
+      "name": "Gabapentin",
+      "uses": "Anticonvulsant for neuropathic pain",
+      "side_effects": "Dizziness, fatigue"
+    },
+    {
+      "name": "Lisinopril",
+      "uses": "ACE inhibitor for hypertension",
+      "side_effects": "Cough, low blood pressure"
+    },
+    {
+      "name": "Losartan",
+      "uses": "ARB for hypertension and heart failure",
+      "side_effects": "Back pain, dizziness"
+    },
+    {
+      "name": "Metronidazole",
+      "uses": "Antibiotic for bacterial and parasitic infections",
+      "side_effects": "Metallic taste, nausea"
+    },
+    {
+      "name": "Naproxen",
+      "uses": "NSAID for pain and inflammation",
+      "side_effects": "Stomach irritation, headache"
+    },
+    {
+      "name": "Omeprazole",
+      "uses": "Proton pump inhibitor for acid reflux",
+      "side_effects": "Abdominal pain, diarrhea"
+    },
+    {
+      "name": "Pantoprazole",
+      "uses": "Proton pump inhibitor for GERD",
+      "side_effects": "Headache, nausea"
+    },
+    {
+      "name": "Simvastatin",
+      "uses": "Statins for cholesterol management",
+      "side_effects": "Muscle pain, liver abnormalities"
+    },
+    {
+      "name": "Tramadol",
+      "uses": "Analgesic for moderate to severe pain",
+      "side_effects": "Drowsiness, constipation"
+    },
+    {
+      "name": "Vimovo",
+      "uses": "NSAID with gastroprotective agent",
+      "side_effects": "Indigestion, rash"
+    },
+    {
+      "name": "Zapain",
+      "uses": "Combination of paracetamol and codeine for pain relief",
+      "side_effects": "Drowsiness, constipation"
+    },
+    {
+      "name": "Zinnat",
+      "uses": "Antibiotic (cefuroxime) for bacterial infections",
+      "side_effects": "Diarrhea, skin rash"
+    }
+   
+  ]
+}
